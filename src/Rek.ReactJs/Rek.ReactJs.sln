@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "root", "root", "{9E90D1BE-F748-474C-893F-87BA945FCFAD}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\gulpfile.js = ..\..\gulpfile.js
+		..\..\packages.json = ..\..\packages.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rek.ReactJs.Bindings", "Rek.ReactJs.Bindings\Rek.ReactJs.Bindings.csproj", "{38F827FF-4AE3-4E30-A928-F45500097640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rek.ReactJs.UI", "Rek.ReactJs.UI\Rek.ReactJs.UI.csproj", "{F89979BA-6080-4D92-B01A-303C6254DB1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rek.ReactJs.LabApp", "Rek.ReactJs.LabApp\Rek.ReactJs.LabApp.csproj", "{2706B251-410E-4879-9E3D-C1DC26E1AC49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38F827FF-4AE3-4E30-A928-F45500097640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F827FF-4AE3-4E30-A928-F45500097640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F827FF-4AE3-4E30-A928-F45500097640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F827FF-4AE3-4E30-A928-F45500097640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89979BA-6080-4D92-B01A-303C6254DB1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89979BA-6080-4D92-B01A-303C6254DB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89979BA-6080-4D92-B01A-303C6254DB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89979BA-6080-4D92-B01A-303C6254DB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2706B251-410E-4879-9E3D-C1DC26E1AC49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2706B251-410E-4879-9E3D-C1DC26E1AC49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2706B251-410E-4879-9E3D-C1DC26E1AC49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2706B251-410E-4879-9E3D-C1DC26E1AC49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
